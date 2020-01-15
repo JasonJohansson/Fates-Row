@@ -1,0 +1,7 @@
+Load "Poison_Toxic_Gas.unity" for an example scene, or simply drag the required particle effect from the Prefabs folder (in the Project window) into the Hierarchy window. The poison gas comes in three different sizes (small, medium and large).
+
+Have fun!
+
+Thanks for purchasing this asset, please consider rating or writing a review about it. If you have any questions then please get in touch at bendurrant@rivermillstudios.com
+
+

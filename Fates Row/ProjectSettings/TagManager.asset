@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - LavaBeast
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Obstacle
+  - BackgroundTile
+  - ForegroundTile
+  - Enemies
+  - Enemy Vision
+  - 'Projectile '
+  - EnemyCollisionBoxes
+  - Fireball
+  - EnemyToPlayerCollider
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1278758755
+    locked: 0
+  - name: Land
+    uniqueID: 255351011
+    locked: 0
+  - name: BackgroundTile
+    uniqueID: 2691922681
+    locked: 0
+  - name: ForegroundTile
+    uniqueID: 208891293
+    locked: 0
+  - name: Player
+    uniqueID: 1753928349
+    locked: 0
+  - name: Enemies
+    uniqueID: 364644323
+    locked: 0

@@ -1,0 +1,153 @@
+
+lava_beast.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_l_1
+  rotate: true
+  xy: 421, 198
+  size: 56, 72
+  orig: 56, 72
+  offset: 0, 0
+  index: -1
+arm_l_2
+  rotate: true
+  xy: 344, 194
+  size: 60, 75
+  orig: 60, 75
+  offset: 0, 0
+  index: -1
+arm_l_3
+  rotate: false
+  xy: 2, 32
+  size: 58, 92
+  orig: 58, 92
+  offset: 0, 0
+  index: -1
+arm_r_1
+  rotate: true
+  xy: 262, 142
+  size: 52, 74
+  orig: 52, 74
+  offset: 0, 0
+  index: -1
+arm_r_2
+  rotate: true
+  xy: 262, 98
+  size: 42, 70
+  orig: 42, 70
+  offset: 0, 0
+  index: -1
+arm_r_3
+  rotate: true
+  xy: 134, 130
+  size: 40, 80
+  orig: 40, 80
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 126
+  size: 130, 128
+  orig: 130, 128
+  offset: 0, 0
+  index: -1
+buttock
+  rotate: false
+  xy: 216, 98
+  size: 44, 72
+  orig: 44, 72
+  offset: 0, 0
+  index: -1
+eye_1
+  rotate: false
+  xy: 134, 172
+  size: 62, 82
+  orig: 62, 82
+  offset: 0, 0
+  index: -1
+eye_2
+  rotate: false
+  xy: 62, 42
+  size: 62, 82
+  orig: 62, 82
+  offset: 0, 0
+  index: -1
+head_1
+  rotate: false
+  xy: 198, 172
+  size: 62, 82
+  orig: 62, 82
+  offset: 0, 0
+  index: -1
+head_2
+  rotate: false
+  xy: 262, 196
+  size: 80, 58
+  orig: 80, 58
+  offset: 0, 0
+  index: -1
+leg_1
+  rotate: false
+  xy: 495, 218
+  size: 12, 16
+  orig: 12, 16
+  offset: 0, 0
+  index: -1
+leg_2
+  rotate: false
+  xy: 36, 14
+  size: 12, 16
+  orig: 12, 16
+  offset: 0, 0
+  index: -1
+leg_3
+  rotate: true
+  xy: 62, 34
+  size: 6, 10
+  orig: 6, 10
+  offset: 0, 0
+  index: -1
+leg_4
+  rotate: true
+  xy: 20, 2
+  size: 8, 10
+  orig: 8, 10
+  offset: 0, 0
+  index: -1
+leg_5
+  rotate: false
+  xy: 126, 114
+  size: 6, 10
+  orig: 6, 10
+  offset: 0, 0
+  index: -1
+leg_6
+  rotate: false
+  xy: 2, 6
+  size: 16, 24
+  orig: 16, 24
+  offset: 0, 0
+  index: -1
+leg_7
+  rotate: false
+  xy: 495, 236
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+leg_8
+  rotate: false
+  xy: 20, 12
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+leg_9
+  rotate: false
+  xy: 495, 202
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
